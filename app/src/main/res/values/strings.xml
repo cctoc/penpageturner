@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">penpageturner</string>
+    <string name="accessibility_service_desc">用于触控笔翻页控制的无障碍服务</string>
+</resources>
